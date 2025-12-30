@@ -1,7 +1,7 @@
 # ¡Hola, soy **Elias Ortega**!
 
-🎓 Estudiante de último año de Ingeniería en Tecnologías computacionales y negocios digitales
-💼 **Open to work** – Buscando oportunidades de laborales!
+🎓 Senior student in Computer Technology Engineering and Digital Business at Anahuac Mayab
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,7 @@
 ## 🔥 Proyectos favoritos
 - **Belly-app** – Minimum Viable Project para servicio social, aplicación para manejo de mesas en un restaurante
 - **Qr-Reader** – Proyecto para la clase de desarrollo de apliciones móviles | Aplicación de manejo de inventario a través de códigos QR y de Barras
-- - **OrdinarioWeb** – Web app full-stack para la clase de desarrollo web
+- **OrdinarioWeb** – Web app full-stack para la clase de desarrollo web
 
 
 > Gracias por visitar mi perfil 👨‍💻
