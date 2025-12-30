@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy **Elias Ortega**!
+# ¡Hola, soy **Elias Ortega**!
 
 🎓 Estudiante de último año de Ingeniería en Tecnologías computacionales y negocios digitales
 💼 **Open to work** – Buscando oportunidades de laborales!
