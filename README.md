@@ -7,18 +7,6 @@
 I’m a motivated engineering student eager to gain **real-world experience**.  
 I’m flexible about the role, quick to learn new technologies, and focused on contributing from day one.
 
----
-
-## 🧠 About Me
-
-- Solid foundation in **software development and problem solving**
-- Experience building **full-stack and backend-oriented projects**
-- Comfortable working with APIs, databases, and modern frameworks
-- Used to reading documentation, debugging, and learning independently
-- Open to **any development-related role** (web, backend, mobile, QA, automation, etc.)
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
