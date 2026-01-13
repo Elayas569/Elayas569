@@ -3,8 +3,7 @@
 🎓 Senior student in **Computer Technology Engineering and Digital Business**  
 📍 Anáhuac Mayab University, Mexico  
 💼 **Actively looking for an internship or junior opportunity**
-
-I’m a motivated engineering student eager to gain **real-world experience**.  
+ 
 I’m flexible about the role, quick to learn new technologies, and focused on contributing from day one.
 
 ## 🛠️ Languages & Tools
